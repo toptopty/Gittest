@@ -20,6 +20,6 @@ class gittest extends CI_Controller {
 	 */
 	public function index()
 	{
-		echo "hello world";
+		echo "hello world 2 ";
 	}
 }
